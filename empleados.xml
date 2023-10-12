@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<empleados>
+  <empleado>
+    <id>1</id>
+    <nombre>Juan Perez</nombre>
+    <salario>50000.00</salario>
+  </empleado>
+  <empleado>
+    <id>2</id>
+    <nombre>María García</nombre>
+    <salario>60000.00</salario>
+  </empleado>
+</empleados>
